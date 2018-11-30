@@ -46,7 +46,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:src="@drawable/seven"
+            android:src="@drawable/january"
             android:scaleType="fitXY"
 
 
@@ -76,7 +76,7 @@
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:background="#547687"
-            android:src="@drawable/one2"
+            android:src="@drawable/february"
             android:scaleType="fitXY"
             />
 
@@ -104,7 +104,7 @@
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:background="#547687"
-            android:src="@drawable/one3"
+            android:src="@drawable/march"
             android:scaleType="fitXY"
             />
 
@@ -146,7 +146,7 @@
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:background="#547687"
-            android:src="@drawable/one4"
+            android:src="@drawable/april"
             android:scaleType="fitXY"
             />
 
@@ -174,7 +174,7 @@
             android:layout_width="match_parent"
             android:layout_height="80dp"
             android:background="#547687"
-            android:src="@drawable/one5"
+            android:src="@drawable/may"
             android:scaleType="fitXY"
             />
 
